@@ -3,7 +3,7 @@
 # Final exam requirements
 
 The student, on their own, is able to:
-- Follow indentation and coding styleguides in their code
+- Follow indentation and coding styleguides in their code (https://github.com/airbnb/javascript)
 - Use and set up linters
 - Create variables, functions, objects in JavaScript based on a given specification
 - Use conditions and loops:
