@@ -23,7 +23,7 @@ function countLength(item) {
 
 
 // filter()  -  returns a new array
-// console.log(integerArray.filter(testIt));
+console.log(integerArray.filter(testIt));
 // console.log(stringArray.filter(testIt));
 
 
@@ -38,9 +38,9 @@ function countLength(item) {
 
 
 // forEach()  -  executes once for each array element
-integerArray.forEach(function(item) {
-  console.log(item*2);
-});
+// integerArray.forEach(function(item) {
+//   console.log(item*2);
+// });
 
 
 // reduce()
